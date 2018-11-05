@@ -145,6 +145,23 @@ header {
   margin-bottom: 20px;
 }
 
+.header-bottom-text button {
+  margin-top: 10px;
+  display: inline-block;
+  background-color: rgb(240, 146, 51);
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0);
+  box-sizing: border-box;
+  font-size: 17px;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+  padding: 8px 26px 8px 26px;
+  vertical-align: middle;
+}
+
 .sect-1 {
   max-width: 100%;
   padding-top: 100px;
